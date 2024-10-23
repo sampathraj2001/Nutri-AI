@@ -1,0 +1,21 @@
+Food Name,Calories (per 100g),Protein (g per 100g),Carbs (g per 100g),Fats (g per 100g),Volume to Weight Conversion (g/cm³)
+Burger,295,17.0,30.0,12.0,0.55
+ButterNaan,310,8.0,50.0,9.0,0.45
+Chai,90,1.0,10.0,4.0,0.85
+Chapati,270,9.0,49.0,3.0,0.5
+CholeBhature,450,13.0,54.0,20.0,0.65
+DalMakhani,210,8.0,27.0,8.0,0.5
+Dhokla,160,6.0,25.0,2.5,0.6
+FriedRice,250,4.0,40.0,7.0,0.65
+Idli,110,2.0,22.0,0.4,0.7
+Jalebi,400,3.0,85.0,5.0,0.8
+KaathiRolls,300,10.0,40.0,12.0,0.55
+KadaiPaneer,320,12.0,20.0,22.0,0.5
+Kulfi,200,4.0,25.0,10.0,0.75
+MasalaDosa,150,4.0,30.0,6.0,0.55
+Momos,200,8.0,30.0,5.0,0.5
+PaaniPuri,300,5.0,60.0,8.0,0.6
+Pakode,400,8.0,40.0,25.0,0.5
+PavBhaji,290,6.0,40.0,12.0,0.55
+Pizza,266,11.0,33.0,10.0,0.6
+Samosa,250,6.0,35.0,12.0,0.6
